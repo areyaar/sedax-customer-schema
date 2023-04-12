@@ -6,13 +6,13 @@
             "id": "@id",
             "type": "@type",
             "ProofOfCustomer": {
-                "@id": "https://raw.githubusercontent.com/0xPolygonID/tutorial-examples/main/credential-schema/proof-of-dao-longevity.jsonld#ProofOfDaoLongevity",
+                "@id": "https://raw.githubusercontent.com/NerdyLucifer/sedax-customer-schema/main/proof-of-customer.jsonld#ProofOfCustomer",
                 "@context": {
                     "@version": 1.1,
                     "@protected": true,
                     "id": "@id",
                     "type": "@type",
-                    "vocab": "https://github.com/0xPolygonID/tutorial-examples/blob/main/credential-schema/proof-of-dao-longevity-vocab.md#",
+                    "vocab": "https://github.com/NerdyLucifer/sedax-customer-schema/blob/main/proof-of-customer-vocab.md#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
                     "name": {
                         "@id": "vocab:name",
