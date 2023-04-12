@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/NerdyLucifer/sedax-customer-schema/main/proof-of-customer.jsonld",
-            "jsonSchema": "https://raw.githubusercontent.com/NerdyLucifer/sedax-customer-schema/main/proof-of-customer.json"
+            "jsonLdContext": "https://raw.githubusercontent.com/areyaar/sedax-customer-schema/main/proof-of-customer.jsonld",
+            "jsonSchema": "https://https://raw.githubusercontent.com/areyaar/sedax-customer-schema/main/proof-of-customer.json"
         }
     },
     "required": [
@@ -106,7 +106,6 @@
             "type": "object",
             "required": [
                 "id",
-                "name",
                 "dateOfBirth",
                 "pincode"
             ],
@@ -116,11 +115,8 @@
                     "type": "string",
                     "format": "uri"
                 },
-                "name": {
-                    "type": "string"
-                },
-                "dateOfBirth": {
-                    "type": "string"
+                "birthday": {
+                    "type": "integer"
                 },
                 "pincode": {
                     "type": "integer"
