@@ -6,7 +6,7 @@
             "id": "@id",
             "type": "@type",
             "ProofOfCustomer": {
-                "@id": "https://raw.githubusercontent.com/areyaar/sedax-customer-schema/main/proof-of-customer.jsonld#ProofOfCustomer",
+                "@id": "https://raw.githubusercontent.com/areyaar/sedax-customer-schema/main/proof-of-customer.json-ld#ProofOfCustomer",
                 "@context": {
                     "@version": 1.1,
                     "@protected": true,
