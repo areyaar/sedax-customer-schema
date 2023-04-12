@@ -3,7 +3,7 @@
     "type": "object",
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/areyaar/sedax-customer-schema/main/proof-of-customer.jsonld",
+            "jsonLdContext": "https://raw.githubusercontent.com/areyaar/sedax-customer-schema/main/proof-of-customer.json-ld",
             "jsonSchema": "https://https://raw.githubusercontent.com/areyaar/sedax-customer-schema/main/proof-of-customer.json"
         }
     },
