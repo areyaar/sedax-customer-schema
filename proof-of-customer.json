@@ -107,8 +107,7 @@
             "required": [
                 "id",
                 "birthday",
-                "pincode",
-                "name"
+                "pincode"
             ],
             "properties": {
                 "id": {
