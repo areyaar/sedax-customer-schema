@@ -120,9 +120,6 @@
                 },
                 "pincode": {
                     "type": "integer"
-                },
-                "name": {
-                    "type": "string"
                 }
             }
         }
