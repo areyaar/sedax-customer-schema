@@ -22,10 +22,6 @@
                         "@id": "vocab:pincode",
                         "@type": "xsd:integer"
                     }
-                    "name": {
-                        "@id": "vocab:name",
-                        "@type": "xsd:string"
-                    }
                 }
             }
         }
