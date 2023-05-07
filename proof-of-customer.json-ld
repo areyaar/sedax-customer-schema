@@ -5,7 +5,7 @@
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "ProofOfAadhaar": {
+            "ProofOfIdentity": {
                 "@id": "https://raw.githubusercontent.com/areyaar/sedax-customer-schema/main/proof-of-customer.json-ld#ProofOfCustomer",
                 "@context": {
                     "@version": 1.1,
