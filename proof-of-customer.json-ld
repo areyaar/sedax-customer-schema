@@ -14,6 +14,10 @@
                     "type": "@type",
                     "vocab": "https://github.com/areyaar/sedax-customer-schema/blob/main/proof-of-customer-vocab.md#",
                     "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "name": {
+                        "@id": "vocab:name",
+                        "@type": "xsd:string"
+                    },
                     "birthday": {
                         "@id": "vocab:birthday",
                         "@type": "xsd:integer"
