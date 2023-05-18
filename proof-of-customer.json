@@ -110,10 +110,9 @@
                 "pincode"
             ],
             "properties": {
-                "id": {
-                    "title": "Credential Subject ID",
-                    "type": "string",
-                    "format": "uri"
+                "name": {
+                    "title": "User's Name",
+                    "type": "string"
                 },
                 "birthday": {
                     "type": "integer"
